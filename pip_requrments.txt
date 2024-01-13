@@ -1,3 +1,4 @@
 pyAudioAnalysis
 -q openai  
 pip install google-cloud-speech
+pip3 install pyannote.audio

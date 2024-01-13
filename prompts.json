@@ -1,0 +1,6 @@
+{
+    "party_promps": "Please list the members of your party with their class",
+    "initial_prompt_p1": "run a dnd one shot campaign for me and my friends. our party includes ",
+    "initial_prompt_p2": ". reply as though you are a DM at a DnD table, since all your responses will be played out loud.",
+    "closing_remark": "Thank you for playing mortals! Today I serve you but tomorrow... we shall see!"
+}
